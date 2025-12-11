@@ -20,17 +20,9 @@ body {
   opacity: 0.2;
 }
 
-.red {
-  background-color: red;
-}
-
-.yellow {
-  background-color: yellow;
-}
-
-.green {
-  background-color: green;
-}
+.red { background-color: red; }
+.yellow { background-color: yellow; }
+.green { background-color: green; }
 
 .light.active {
   opacity: 1;
