@@ -37,7 +37,7 @@ function nextState() {
 
 startBtn.addEventListener("click", () => {
   if (intervalId === null) {
-    intervalId = setInterval(nextState, 2000); // 2 seconds per state
+    intervalId = setInterval(nextState, 2000); 
   }
 });
 
